@@ -23,4 +23,4 @@ def func(a, b, c):
 if __name__ == '__main__':
     print(func(a=3, b=2, c=4))
     
-#niekas nepakeista
+
